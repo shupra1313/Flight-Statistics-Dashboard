@@ -55,7 +55,7 @@ The second chart compares the airlines performance for top ten busiest airports 
 * Ananya Yetigadda
 * Gabriela Cantu
 * Shruthi Elkal
-* Shubha Prashanth
+* Subha Prashanth
 * Tinku Supakar
 
 
