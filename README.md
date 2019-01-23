@@ -2,13 +2,6 @@
 
 ![flight](images/flight.png)
 
-### TEAM MEMBERS:
-* Ananya Yetigadda
-* Gabriela Cantu
-* Shruthi Elkal
-* Shubha Prashanth
-* Tinku Supakar
-
 ### Project Description:
 The project demonstrates visualizations with multiple views on the same data, each of which is able to drill down into the data based further in each view. Our visualizations show different views on flight delay data across major, airports, airlines, routes and months of the year. The visualization story follows average arrival and departure delays and attempts to analyze the hidden causes of these delays. Using publicly available data from Bureau of Transportation Statistics (BTS), the overall goal of this project is to investigate the general basis of flight delays and identify airlines, airports and routes with the highest delay rates.
 
@@ -58,7 +51,12 @@ The second chart compares the airlines performance for top ten busiest airports 
 * Analyze correlation between flight prices and delays.
 * Analyze flight safety: which airline is the safest?
 
-
+### TEAM MEMBERS:
+* Ananya Yetigadda
+* Gabriela Cantu
+* Shruthi Elkal
+* Subha Prashanth
+* Tinku Supakar
 
 
 
