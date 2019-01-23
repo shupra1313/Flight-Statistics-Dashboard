@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 ## Flight-Statistics-Dashboard
 
 ![flight](images/flight.png)
@@ -59,9 +58,3 @@ The second chart compares the airlines performance for top ten busiest airports 
 * Shruthi Elkal
 * Subha Prashanth
 * Tinku Supakar
-
-
-
-
->>>>>>> master
-
